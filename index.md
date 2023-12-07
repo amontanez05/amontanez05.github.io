@@ -5,7 +5,7 @@ This is my home page! My name is Aurora Montanez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/amontanez05.
+My GitHub page is [http://github.com/amontanez05](http://github.com/amontanez05).
 
 ### CPSC 120
 
